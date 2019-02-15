@@ -1,7 +1,7 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-def parrot(sound)
+def parrot("Squawk!", "Pretty bird!")
   puts "#{"Squawk!"}"
-  returns "#{sound,"Pretty bird!"}"
+  returns "#{"Pretty bird!"}"
 end
 parrot()
