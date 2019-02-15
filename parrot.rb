@@ -5,3 +5,4 @@ def parrot(sound="Squawk!")
   returns "#{sound,"Pretty bird!"}"
 end
 parrot()
+parrot(sound)
